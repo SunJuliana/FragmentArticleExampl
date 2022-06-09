@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentArticleExampl</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="text">ВАМ НРАВИТСЯ?</string>
+    <string name="question_article">Вам нравится эта статья?</string>
+</resources>
